@@ -1,0 +1,17 @@
+C:\Repositorio\APISUPORTE\APISUPORTE.Service\obj\Debug\net5.0\APISUPORTE.Service.csproj.AssemblyReference.cache
+C:\Repositorio\APISUPORTE\APISUPORTE.Service\obj\Debug\net5.0\APISUPORTE.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\APISUPORTE\APISUPORTE.Service\obj\Debug\net5.0\APISUPORTE.Service.AssemblyInfoInputs.cache
+C:\Repositorio\APISUPORTE\APISUPORTE.Service\obj\Debug\net5.0\APISUPORTE.Service.AssemblyInfo.cs
+C:\Repositorio\APISUPORTE\APISUPORTE.Service\obj\Debug\net5.0\APISUPORTE.Service.csproj.CoreCompileInputs.cache
+C:\Repositorio\APISUPORTE\APISUPORTE.Service\bin\Debug\net5.0\APISUPORTE.Service.deps.json
+C:\Repositorio\APISUPORTE\APISUPORTE.Service\bin\Debug\net5.0\APISUPORTE.Service.dll
+C:\Repositorio\APISUPORTE\APISUPORTE.Service\bin\Debug\net5.0\ref\APISUPORTE.Service.dll
+C:\Repositorio\APISUPORTE\APISUPORTE.Service\bin\Debug\net5.0\APISUPORTE.Service.pdb
+C:\Repositorio\APISUPORTE\APISUPORTE.Service\bin\Debug\net5.0\APISUPORTE.Models.dll
+C:\Repositorio\APISUPORTE\APISUPORTE.Service\bin\Debug\net5.0\APISUPORTE.Models.pdb
+C:\Repositorio\APISUPORTE\APISUPORTE.Service\obj\Debug\net5.0\APISUPORTE.Service.csproj.CopyComplete
+C:\Repositorio\APISUPORTE\APISUPORTE.Service\obj\Debug\net5.0\APISUPORTE.Service.dll
+C:\Repositorio\APISUPORTE\APISUPORTE.Service\obj\Debug\net5.0\ref\APISUPORTE.Service.dll
+C:\Repositorio\APISUPORTE\APISUPORTE.Service\obj\Debug\net5.0\APISUPORTE.Service.pdb
+C:\Repositorio\APISUPORTE\APISUPORTE.Service\bin\Debug\net5.0\APISUPORTE.Util.dll
+C:\Repositorio\APISUPORTE\APISUPORTE.Service\bin\Debug\net5.0\APISUPORTE.Util.pdb

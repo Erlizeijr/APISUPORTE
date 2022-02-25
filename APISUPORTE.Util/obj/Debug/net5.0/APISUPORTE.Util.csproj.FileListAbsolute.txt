@@ -1,0 +1,12 @@
+C:\Repositorio\APISUPORTE\APISUPORTE.Util\bin\Debug\net5.0\APISUPORTE.Util.deps.json
+C:\Repositorio\APISUPORTE\APISUPORTE.Util\bin\Debug\net5.0\APISUPORTE.Util.dll
+C:\Repositorio\APISUPORTE\APISUPORTE.Util\bin\Debug\net5.0\ref\APISUPORTE.Util.dll
+C:\Repositorio\APISUPORTE\APISUPORTE.Util\bin\Debug\net5.0\APISUPORTE.Util.pdb
+C:\Repositorio\APISUPORTE\APISUPORTE.Util\obj\Debug\net5.0\APISUPORTE.Util.csproj.AssemblyReference.cache
+C:\Repositorio\APISUPORTE\APISUPORTE.Util\obj\Debug\net5.0\APISUPORTE.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\APISUPORTE\APISUPORTE.Util\obj\Debug\net5.0\APISUPORTE.Util.AssemblyInfoInputs.cache
+C:\Repositorio\APISUPORTE\APISUPORTE.Util\obj\Debug\net5.0\APISUPORTE.Util.AssemblyInfo.cs
+C:\Repositorio\APISUPORTE\APISUPORTE.Util\obj\Debug\net5.0\APISUPORTE.Util.csproj.CoreCompileInputs.cache
+C:\Repositorio\APISUPORTE\APISUPORTE.Util\obj\Debug\net5.0\APISUPORTE.Util.dll
+C:\Repositorio\APISUPORTE\APISUPORTE.Util\obj\Debug\net5.0\ref\APISUPORTE.Util.dll
+C:\Repositorio\APISUPORTE\APISUPORTE.Util\obj\Debug\net5.0\APISUPORTE.Util.pdb
