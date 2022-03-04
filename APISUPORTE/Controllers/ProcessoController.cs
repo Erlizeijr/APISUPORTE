@@ -25,20 +25,20 @@ namespace APISUPORTE.Controllers
 
         public IActionResult GetProcesso([FromQuery] int id, string motorista, string banco)
         {
-            //var _processoService = new ProcessoService();
-            //var processo = _processoService.GetProcesso(id, motorista,banco);
+            var _processoService = new ProcessoService();
+            var processo = _processoService.GetProcesso(id, motorista, banco);
 
-            //if (processo.Result == null)
-            //{
-            //    var msg = new Mensagem()
-            //    {
-            //        Msg = "Processo não encontrado"
-            //    };
-            //    return NotFound(msg);
-            //}
+            if (processo.Result == null)
+            {
+                var msg = new Mensagem()
+                {
+                    Msg = "Processo não encontrado"
+                };
+                return NotFound(msg);
+            }
 
-            //return Ok(processo.Result);
-            return Ok("Teste");
+            return Ok(processo.Result);
+            //return Ok("Teste");
         }
 
         // PUT api/<ValuesController>/5
