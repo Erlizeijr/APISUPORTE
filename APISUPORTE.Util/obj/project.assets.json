@@ -1,11 +1,105 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "GodSharp.Advantech.Adam/2021.10308.2245": {
+        "type": "package",
+        "dependencies": {
+          "GodSharp.NModbus": "2021.10129.1808"
+        },
+        "compile": {
+          "lib/netstandard2.0/GodSharp.Advantech.Adam.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/GodSharp.Advantech.Adam.dll": {}
+        }
+      },
+      "GodSharp.NModbus/2021.10129.1808": {
+        "type": "package",
+        "dependencies": {
+          "NModbus": "3.0.62"
+        },
+        "compile": {
+          "lib/netstandard2.0/GodSharp.NModbus.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/GodSharp.NModbus.dll": {}
+        }
+      },
+      "NModbus/3.0.62": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/NModbus.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NModbus.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "GodSharp.Advantech.Adam/2021.10308.2245": {
+      "sha512": "+Du90K7xxS1emxQtI00VCBSbkl3RLkFtQPKHUC/AX0wA+/XC1AP6HlOtUf/Ow8WLM9AeT4FSiFgndxyAw1Pjbw==",
+      "type": "package",
+      "path": "godsharp.advantech.adam/2021.10308.2245",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "godsharp.advantech.adam.2021.10308.2245.nupkg.sha512",
+        "godsharp.advantech.adam.nuspec",
+        "lib/net45/GodSharp.Advantech.Adam.dll",
+        "lib/net45/GodSharp.Advantech.Adam.xml",
+        "lib/net46/GodSharp.Advantech.Adam.dll",
+        "lib/net46/GodSharp.Advantech.Adam.xml",
+        "lib/netstandard1.3/GodSharp.Advantech.Adam.dll",
+        "lib/netstandard1.3/GodSharp.Advantech.Adam.xml",
+        "lib/netstandard2.0/GodSharp.Advantech.Adam.dll",
+        "lib/netstandard2.0/GodSharp.Advantech.Adam.xml"
+      ]
+    },
+    "GodSharp.NModbus/2021.10129.1808": {
+      "sha512": "AZhQXv4t/fl0wC60yFQafo+b16qYfxIhKYOgVHkgzHtnpf7mJGzrbZgFjoHqAC0bX/oHqZqOiQOolissbNt/OQ==",
+      "type": "package",
+      "path": "godsharp.nmodbus/2021.10129.1808",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "godsharp.nmodbus.2021.10129.1808.nupkg.sha512",
+        "godsharp.nmodbus.nuspec",
+        "lib/net45/GodSharp.NModbus.dll",
+        "lib/net45/GodSharp.NModbus.xml",
+        "lib/net46/GodSharp.NModbus.dll",
+        "lib/net46/GodSharp.NModbus.xml",
+        "lib/netstandard1.3/GodSharp.NModbus.dll",
+        "lib/netstandard1.3/GodSharp.NModbus.xml",
+        "lib/netstandard2.0/GodSharp.NModbus.dll",
+        "lib/netstandard2.0/GodSharp.NModbus.xml"
+      ]
+    },
+    "NModbus/3.0.62": {
+      "sha512": "NE2DxRMMuLudN7cl39swpXwLzsfOIH3JGIdoCrcGSk8Ppj8MzZjPD/goP8ldF85ILo4WtB9dRbaN7hMOHWp9DQ==",
+      "type": "package",
+      "path": "nmodbus/3.0.62",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/NModbus.dll",
+        "lib/net45/NModbus.xml",
+        "lib/net46/NModbus.dll",
+        "lib/net46/NModbus.xml",
+        "lib/netstandard1.3/NModbus.dll",
+        "lib/netstandard1.3/NModbus.xml",
+        "lib/netstandard2.0/NModbus.dll",
+        "lib/netstandard2.0/NModbus.xml",
+        "nmodbus.3.0.62.nupkg.sha512",
+        "nmodbus.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "GodSharp.Advantech.Adam >= 2021.10308.2245"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Erlizei Jr\\.nuget\\packages\\": {}
@@ -45,6 +139,12 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+        "dependencies": {
+          "GodSharp.Advantech.Adam": {
+            "target": "Package",
+            "version": "[2021.10308.2245, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

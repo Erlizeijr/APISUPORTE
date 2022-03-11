@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "h/eXrM7jIHe0sxyKedebvsOjW99eVAkUDkbyTdQp9ybsgMxnHLLRKr/mCLV1jt0DVlNhYlUX3HqLLNY3TIRRqQ==",
+  "dgSpecHash": "xoUKD1Rg0jpAR+wxsrNhwhA2oOyMzF/TH6tFzkaur14SGULSbLgnBw8P3THMlwoBWNEO2GaeAR1Vj41KZ+DGlQ==",
   "success": true,
   "projectFilePath": "C:\\Repositorio\\APISUPORTE\\APISUPORTE.Util\\APISUPORTE.Util.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Erlizei Jr\\.nuget\\packages\\godsharp.advantech.adam\\2021.10308.2245\\godsharp.advantech.adam.2021.10308.2245.nupkg.sha512",
+    "C:\\Users\\Erlizei Jr\\.nuget\\packages\\godsharp.nmodbus\\2021.10129.1808\\godsharp.nmodbus.2021.10129.1808.nupkg.sha512",
+    "C:\\Users\\Erlizei Jr\\.nuget\\packages\\nmodbus\\3.0.62\\nmodbus.3.0.62.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -4,4 +4,8 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="GodSharp.Advantech.Adam" Version="2021.10308.2245" />
+  </ItemGroup>
+
 </Project>

@@ -15,4 +15,8 @@
   <PropertyGroup>
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
   </PropertyGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgVisioForge_DotNet_Core_TRIAL Condition=" '$(PkgVisioForge_DotNet_Core_TRIAL)' == '' ">C:\Users\Erlizei Jr\.nuget\packages\visioforge.dotnet.core.trial\15.1.12</PkgVisioForge_DotNet_Core_TRIAL>
+    <PkgAWSSDK_Core Condition=" '$(PkgAWSSDK_Core)' == '' ">C:\Users\Erlizei Jr\.nuget\packages\awssdk.core\3.7.8.7</PkgAWSSDK_Core>
+  </PropertyGroup>
 </Project>

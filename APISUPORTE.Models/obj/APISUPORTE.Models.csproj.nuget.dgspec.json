@@ -39,6 +39,20 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "AWSSDK.Core": {
+              "target": "Package",
+              "version": "[3.7.8.7, )"
+            },
+            "GodSharp.Advantech.Adam": {
+              "target": "Package",
+              "version": "[2021.10308.2245, )"
+            },
+            "VisioForge.DotNet.Core.TRIAL": {
+              "target": "Package",
+              "version": "[15.1.12, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -7,8 +7,41 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "APISUPORTE.Util/1.0.0": {
+        "dependencies": {
+          "GodSharp.Advantech.Adam": "2021.10308.2245"
+        },
         "runtime": {
           "APISUPORTE.Util.dll": {}
+        }
+      },
+      "GodSharp.Advantech.Adam/2021.10308.2245": {
+        "dependencies": {
+          "GodSharp.NModbus": "2021.10129.1808"
+        },
+        "runtime": {
+          "lib/netstandard2.0/GodSharp.Advantech.Adam.dll": {
+            "assemblyVersion": "2021.10308.2245.0",
+            "fileVersion": "2021.10308.2245.0"
+          }
+        }
+      },
+      "GodSharp.NModbus/2021.10129.1808": {
+        "dependencies": {
+          "NModbus": "3.0.62"
+        },
+        "runtime": {
+          "lib/netstandard2.0/GodSharp.NModbus.dll": {
+            "assemblyVersion": "2021.10129.1808.0",
+            "fileVersion": "2021.10129.1808.0"
+          }
+        }
+      },
+      "NModbus/3.0.62": {
+        "runtime": {
+          "lib/netstandard2.0/NModbus.dll": {
+            "assemblyVersion": "3.0.62.0",
+            "fileVersion": "3.0.62.0"
+          }
         }
       }
     }
@@ -18,6 +51,27 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "GodSharp.Advantech.Adam/2021.10308.2245": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+Du90K7xxS1emxQtI00VCBSbkl3RLkFtQPKHUC/AX0wA+/XC1AP6HlOtUf/Ow8WLM9AeT4FSiFgndxyAw1Pjbw==",
+      "path": "godsharp.advantech.adam/2021.10308.2245",
+      "hashPath": "godsharp.advantech.adam.2021.10308.2245.nupkg.sha512"
+    },
+    "GodSharp.NModbus/2021.10129.1808": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AZhQXv4t/fl0wC60yFQafo+b16qYfxIhKYOgVHkgzHtnpf7mJGzrbZgFjoHqAC0bX/oHqZqOiQOolissbNt/OQ==",
+      "path": "godsharp.nmodbus/2021.10129.1808",
+      "hashPath": "godsharp.nmodbus.2021.10129.1808.nupkg.sha512"
+    },
+    "NModbus/3.0.62": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NE2DxRMMuLudN7cl39swpXwLzsfOIH3JGIdoCrcGSk8Ppj8MzZjPD/goP8ldF85ILo4WtB9dRbaN7hMOHWp9DQ==",
+      "path": "nmodbus/3.0.62",
+      "hashPath": "nmodbus.3.0.62.nupkg.sha512"
     }
   }
 }

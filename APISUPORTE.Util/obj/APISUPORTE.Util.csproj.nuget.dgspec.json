@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "GodSharp.Advantech.Adam": {
+              "target": "Package",
+              "version": "[2021.10308.2245, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
