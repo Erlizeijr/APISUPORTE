@@ -10,3 +10,15 @@ C:\Repositorio\APISUPORTE\APISUPORTE.Models\obj\Debug\net5.0\APISUPORTE.Models.d
 C:\Repositorio\APISUPORTE\APISUPORTE.Models\obj\Debug\net5.0\ref\APISUPORTE.Models.dll
 C:\Repositorio\APISUPORTE\APISUPORTE.Models\obj\Debug\net5.0\APISUPORTE.Models.pdb
 C:\Repositorio\APISUPORTE\APISUPORTE.Models\obj\Debug\net5.0\APISUPORTE.Models.csproj.AssemblyReference.cache
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Models\bin\Debug\net5.0\APISUPORTE.Models.deps.json
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Models\bin\Debug\net5.0\APISUPORTE.Models.dll
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Models\bin\Debug\net5.0\ref\APISUPORTE.Models.dll
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Models\bin\Debug\net5.0\APISUPORTE.Models.pdb
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Models\obj\Debug\net5.0\APISUPORTE.Models.csprojAssemblyReference.cache
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Models\obj\Debug\net5.0\APISUPORTE.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Models\obj\Debug\net5.0\APISUPORTE.Models.AssemblyInfoInputs.cache
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Models\obj\Debug\net5.0\APISUPORTE.Models.AssemblyInfo.cs
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Models\obj\Debug\net5.0\APISUPORTE.Models.csproj.CoreCompileInputs.cache
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Models\obj\Debug\net5.0\APISUPORTE.Models.dll
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Models\obj\Debug\net5.0\ref\APISUPORTE.Models.dll
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Models\obj\Debug\net5.0\APISUPORTE.Models.pdb

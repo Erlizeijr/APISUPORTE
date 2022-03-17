@@ -10,3 +10,15 @@ C:\Repositorio\APISUPORTE\APISUPORTE.Util\obj\Debug\net5.0\APISUPORTE.Util.dll
 C:\Repositorio\APISUPORTE\APISUPORTE.Util\obj\Debug\net5.0\ref\APISUPORTE.Util.dll
 C:\Repositorio\APISUPORTE\APISUPORTE.Util\obj\Debug\net5.0\APISUPORTE.Util.pdb
 C:\Repositorio\APISUPORTE\APISUPORTE.Util\obj\Debug\net5.0\APISUPORTE.Util.csproj.AssemblyReference.cache
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Util\bin\Debug\net5.0\APISUPORTE.Util.deps.json
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Util\bin\Debug\net5.0\APISUPORTE.Util.dll
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Util\bin\Debug\net5.0\ref\APISUPORTE.Util.dll
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Util\bin\Debug\net5.0\APISUPORTE.Util.pdb
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Util\obj\Debug\net5.0\APISUPORTE.Util.csprojAssemblyReference.cache
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Util\obj\Debug\net5.0\APISUPORTE.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Util\obj\Debug\net5.0\APISUPORTE.Util.AssemblyInfoInputs.cache
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Util\obj\Debug\net5.0\APISUPORTE.Util.AssemblyInfo.cs
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Util\obj\Debug\net5.0\APISUPORTE.Util.csproj.CoreCompileInputs.cache
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Util\obj\Debug\net5.0\APISUPORTE.Util.dll
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Util\obj\Debug\net5.0\ref\APISUPORTE.Util.dll
+C:\RepositorioGIT\APISUPORTE\APISUPORTE.Util\obj\Debug\net5.0\APISUPORTE.Util.pdb

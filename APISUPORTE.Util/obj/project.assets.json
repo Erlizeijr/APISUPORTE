@@ -102,19 +102,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Erlizei Jr\\.nuget\\packages\\": {}
+    "C:\\Users\\TOTEM 02\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repositorio\\APISUPORTE\\APISUPORTE.Util\\APISUPORTE.Util.csproj",
+      "projectUniqueName": "C:\\RepositorioGIT\\APISUPORTE\\APISUPORTE.Util\\APISUPORTE.Util.csproj",
       "projectName": "APISUPORTE.Util",
-      "projectPath": "C:\\Repositorio\\APISUPORTE\\APISUPORTE.Util\\APISUPORTE.Util.csproj",
-      "packagesPath": "C:\\Users\\Erlizei Jr\\.nuget\\packages\\",
-      "outputPath": "C:\\Repositorio\\APISUPORTE\\APISUPORTE.Util\\obj\\",
+      "projectPath": "C:\\RepositorioGIT\\APISUPORTE\\APISUPORTE.Util\\APISUPORTE.Util.csproj",
+      "packagesPath": "C:\\Users\\TOTEM 02\\.nuget\\packages\\",
+      "outputPath": "C:\\RepositorioGIT\\APISUPORTE\\APISUPORTE.Util\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Erlizei Jr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\TOTEM 02\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -160,7 +160,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

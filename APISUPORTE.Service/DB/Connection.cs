@@ -12,7 +12,7 @@ namespace APISUPORTE.Service.DB
     {
         SqlConnection conn = new SqlConnection();
 
-        private static string server = @".\SQLEXPRESS";
+        private static string server = @"NEPRESERVER";
         private static string dataBase = "SBNDB000";
         private static string user = "sa";
         private static string password = "sa";
